@@ -1,7 +1,4 @@
-🛡️ Project Overview
-Cyber Threat Intelligence (CTI) Platform Type: Host-Based Intrusion Detection System (HIDS) & Network Honeypot Purpose: To monitor, detect, and visualize cyber security threats in real-time on a production system.
-
-This project has evolved from a simple historical data analyzer into a live, production-ready security system that actively protects your local machine. It acts as a mini Security Operations Center (SOC).
+Cyber Threat Intelligence (CTI) Platform Type: Host-Based Intrusion Detection System (HIDS) & Network Honeypot Purpose: To monitor, detect, and visualize cyber security threats in real-time on a production system. This project has evolved from a simple historical data analyzer into a live, production-ready security system that actively protects your local machine. It acts as a mini Security Operations Center (SOC).
 
 🏗️ System Architecture (How it Works)
 The system follows a classic Sensor → Storage → Dashboard pipeline:
