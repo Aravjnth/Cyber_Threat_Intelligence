@@ -1,0 +1,41 @@
+Timestamp,Threat_Type,Source_IP,Destination_IP,Severity,Description
+2025-12-01 10:00,Malware,192.168.1.5,10.0.0.12,High,Trojan detected
+2025-12-01 10:10,Phishing,203.0.113.7,10.0.0.15,Medium,Suspicious email
+2025-12-01 10:20,DDoS,198.51.100.3,10.0.0.20,Critical,SYN flood attack
+2025-12-01 10:30,Brute Force,192.168.2.8,10.0.0.22,High,Multiple login failures
+2025-12-01 10:40,Ransomware,192.168.3.12,10.0.0.25,Critical,File encryption activity
+2025-12-01 10:50,Malware,192.168.4.9,10.0.0.30,Medium,Malicious payload detected
+2025-12-01 11:00,Phishing,203.0.113.45,10.0.0.18,Low,Fake login page
+2025-12-01 11:10,DDoS,198.51.100.99,10.0.0.40,High,UDP flood detected
+2025-12-01 11:20,Brute Force,192.168.5.21,10.0.0.50,Medium,Repeated SSH attempts
+2025-12-01 11:30,Ransomware,192.168.6.14,10.0.0.60,Critical,Unauthorized encryption
+2025-12-01 11:40,Malware,192.168.7.33,10.0.0.61,High,Worm activity detected
+2025-12-01 11:50,Phishing,203.0.113.88,10.0.0.62,Medium,Credential harvesting
+2025-12-01 12:00,DDoS,198.51.100.11,10.0.0.63,Critical,ICMP flood
+2025-12-01 12:10,Brute Force,192.168.8.41,10.0.0.64,High,Password spray attack
+2025-12-01 12:20,Ransomware,192.168.9.52,10.0.0.65,Critical,Data locked
+2025-12-01 12:30,Malware,192.168.10.17,10.0.0.66,Medium,Spyware detected
+2025-12-01 12:40,Phishing,203.0.113.90,10.0.0.67,Low,Malicious URL
+2025-12-01 12:50,DDoS,198.51.100.21,10.0.0.68,High,HTTP flood
+2025-12-01 13:00,Brute Force,192.168.11.29,10.0.0.69,Medium,FTP login failures
+2025-12-01 13:10,Ransomware,192.168.12.47,10.0.0.70,Critical,Encryption detected
+2025-12-01 13:20,Malware,192.168.13.61,10.0.0.71,High,Backdoor installed
+2025-12-01 13:30,Phishing,203.0.113.19,10.0.0.72,Medium,Spoofed domain
+2025-12-01 13:40,DDoS,198.51.100.55,10.0.0.73,Critical,Traffic spike
+2025-12-01 13:50,Brute Force,192.168.14.73,10.0.0.74,High,Account lockouts
+2025-12-01 14:00,Ransomware,192.168.15.88,10.0.0.75,Critical,Ransom note detected
+2025-12-01 14:10,Malware,192.168.16.92,10.0.0.76,Medium,Keylogger found
+2025-12-01 14:20,Phishing,203.0.113.100,10.0.0.77,Low,Fake support email
+2025-12-01 14:30,DDoS,198.51.100.77,10.0.0.78,High,Packet flooding
+2025-12-01 14:40,Brute Force,192.168.17.11,10.0.0.79,Medium,Repeated failures
+2025-12-01 14:50,Ransomware,192.168.18.19,10.0.0.80,Critical,Data exfiltration
+2025-12-01 15:00,Malware,192.168.19.27,10.0.0.81,High,Rootkit detected
+2025-12-01 15:10,Phishing,203.0.113.66,10.0.0.82,Medium,Impersonation email
+2025-12-01 15:20,DDoS,198.51.100.88,10.0.0.83,Critical,Network saturation
+2025-12-01 15:30,Brute Force,192.168.20.39,10.0.0.84,High,Unauthorized attempts
+2025-12-01 15:40,Ransomware,192.168.21.41,10.0.0.85,Critical,Encrypted backups
+2025-12-01 15:50,Malware,192.168.22.56,10.0.0.86,Medium,Adware detected
+2025-12-01 16:00,Phishing,203.0.113.12,10.0.0.87,Low,Spam campaign
+2025-12-01 16:10,DDoS,198.51.100.19,10.0.0.88,High,Service disruption
+2025-12-01 16:20,Brute Force,192.168.23.68,10.0.0.89,Medium,Credential abuse
+2025-12-01 16:30,Ransomware,192.168.24.77,10.0.0.90,Critical,System lock
